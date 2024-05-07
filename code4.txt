@@ -1,0 +1,7 @@
+public class div
+{
+    publi void div(int a,int b)
+    {
+        return a/b;
+    }
+}
