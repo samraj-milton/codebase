@@ -1,7 +1,7 @@
 public class multi
 {
-    publi void multi(int a,int b,int c,int d)
+    publi void multi(int a,int b,int c,int d,int E)
     {
-        return a*b*c*d;
+        return a*b*c*d* e;
     }
 }
