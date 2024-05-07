@@ -5,3 +5,13 @@ public class multi
         return a*b*c*d* e;
     }
 }
+
+
+public class multi
+{
+    publi void multi(int a,int b,int c,int d)
+    {
+        return a*b*c*d;
+    }
+}
+
